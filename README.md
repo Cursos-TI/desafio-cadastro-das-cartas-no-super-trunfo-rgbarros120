@@ -1,4 +1,5 @@
 Super Trunfo - Cidades Brasileiras 🇧🇷️
+
 Este é um jogo de Super Trunfo temático de cidades brasileiras, desenvolvido em linguagem C. O objetivo é cadastrar e comparar cidades com base em diversos atributos, como população, área, PIB, pontos turísticos e muito mais!
 
 Funcionalidades
